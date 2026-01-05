@@ -2103,6 +2103,1534 @@
       },
       "defName": "VPE_Thrall",
       "name": "thrall"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy tends to let his mind drift, even in the middle of work. he may sometimes stop tasks at random.",
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "workaholic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "workaholic"
+        ],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AbsentMinded",
+      "name": "absent-minded"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a screw loose, but it comes with a sharper scientific mind.",
+      "stats": [
+        "x115% research speed"
+      ],
+      "conflicts": [
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner"
+        ],
+        "stats": [
+          "x115% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Eccentric",
+      "name": "eccentric"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy strives for perfection in his work. he produces higher-quality products, but works more slowly. Failing to meet his standards causes unhappiness, and on rare occasions he may abandon a project mid-way.",
+      "stats": [
+        "x65% global work speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x65% global work speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Perfectionist",
+      "name": "perfectionist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's instincts lean heavily toward cowardice. In danger, he will often hide or run before standing to fight.",
+      "stats": [],
+      "conflicts": [
+        "brave",
+        "bloodlust",
+        "brawler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "brave",
+          "bloodlust",
+          "brawler"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Coward",
+      "name": "coward"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has stronger mental and physical fortitude than most. he can endure pain more readily, and is slower to break under harsh conditions.",
+      "stats": [
+        "-20% mental break threshold",
+        "+20% pain shock threshold",
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [
+        "coward",
+        "iron-willed",
+        "steadfast",
+        "nervous",
+        "volatile",
+        "wimp"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "coward",
+          "iron-willed",
+          "steadfast",
+          "nervous",
+          "volatile",
+          "wimp"
+        ],
+        "stats": [
+          "-20% mental break threshold",
+          "+20% pain shock threshold",
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Brave",
+      "name": "brave"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Minor bruises and scrapes plague Timmy, usually from tripping or falling due to poor coordination.",
+      "stats": [],
+      "conflicts": [
+        "nimble"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "nimble"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Clumsy",
+      "name": "clumsy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the heat of a dry summer day. he doesn't mind working up a sweat or sleeping in warmth.",
+      "stats": [
+        "+10.0C max comfortable temperature"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+10.0C max comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_HeatInclined",
+      "name": "heatinclined"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the chill of a brisk winter night. he doesn't mind shivering or sleeping in the cold.",
+      "stats": [
+        "-10.0C min comfortable temperature"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "-10.0C min comfortable temperature"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ColdInclined",
+      "name": "coldinclined"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "A bomb could go off beside Timmy while he sleeps, and he would keep right on sleeping. he can't be bothered to work or defend the colony mid-nap.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_HeavySleeper",
+      "name": "heavysleeper"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is naturally hygienic and organized. he doesn't track dirt or scatter trash, and enjoys cleaning.",
+      "stats": [],
+      "conflicts": [
+        "slob"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slob"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Neat",
+      "name": "neat"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is naturally sloppy, leaving trash and dirt scattered around. At least he isn't much bothered by messy surroundings.",
+      "stats": [],
+      "conflicts": [
+        "neat"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "neat"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Slob",
+      "name": "slob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy struggles to take breaks or rest mid-job. he will keep working, even at the expense of his health or sleep.",
+      "stats": [],
+      "conflicts": [
+        "absent-minded"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "absent-minded"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Workaholic",
+      "name": "workaholic"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has never known nausea. Food poisoning and vomiting are foreign to him.",
+      "stats": [],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "squeamish"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_IronStomach",
+      "name": "ironstomach"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy can't stand cruelty toward animals. he feels happier when nuzzled or acting as master to a tamed animal, but is more deeply upset when losing one. he also refuses to butcher animals.",
+      "stats": [],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animalhater"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AnimalLover",
+      "name": "animallover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes in human superiority over animals. he dislikes bonding or being nuzzled, but feels satisfaction when animals die or are sold.",
+      "stats": [],
+      "conflicts": [
+        "animallover",
+        "catperson",
+        "dogperson",
+        "menagerist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animallover",
+          "catperson",
+          "dogperson",
+          "menagerist"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_AnimalHater",
+      "name": "animalhater"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Whether from bulk or awkward posture, Timmy has broken a few chairs in his time, and is likely to break more.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_BigBoned",
+      "name": "big-boned"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy only plays by his own rules. When forced, he will drag his feet and work more slowly.",
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [
+        "submissive"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "submissive"
+        ],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Rebel",
+      "name": "rebel"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy needs clear direction on when and how to act. he works at normal speed only when ordered, and otherwise slows down.",
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [
+        "rebel"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "rebel"
+        ],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Submissive",
+      "name": "submissive"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is fueled by spite. he can’t stand sharing the colony with rivals, and feels happier when one of them dies.",
+      "stats": [
+        "x25% global certainty loss factor"
+      ],
+      "conflicts": [
+        "kind"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "kind"
+        ],
+        "stats": [
+          "x25% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Vengeful",
+      "name": "vengeful"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Whether from trauma or fear of change, Timmy rejects modernity. he may lash out at machines, refuses to research, and feels satisfaction from destroying mechanoids.",
+      "stats": [
+        "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+      ],
+      "conflicts": [
+        "bodymodder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "bodymodder"
+        ],
+        "stats": [
+          "Only mental break \"VTE_TechnophobeTantrum\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Technophobe",
+      "name": "technophobe"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy lives for a good time. he remembers parties fondly, and the joy lasts far longer than it does for most.",
+      "stats": [],
+      "conflicts": [
+        "anxious"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "anxious"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_FunLoving",
+      "name": "fun-loving"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has limited mental capacity. he learns slowly and struggles with conversation, but tends to be naturally happy.",
+      "stats": [
+        "-50% global learning factor",
+        "-50.00% social impact",
+        "x300% global certainty loss factor"
+      ],
+      "conflicts": [
+        "academian",
+        "eccentric",
+        "prodigy",
+        "tycoon",
+        "fastlearner",
+        "toosmart"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "academian",
+          "eccentric",
+          "prodigy",
+          "tycoon",
+          "fastlearner",
+          "toosmart"
+        ],
+        "stats": [
+          "-50% global learning factor",
+          "-50.00% social impact",
+          "x300% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Dunce",
+      "name": "dunce"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has trained in melee combat and learned a special move to disarm opponents.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_MartialArtist",
+      "name": "martialartist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
+      "stats": [],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascetic"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Snob",
+      "name": "snob"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy gets a sour stomach around blood or corpses. Vomiting is just part of life for him.",
+      "stats": [],
+      "conflicts": [
+        "desensitized",
+        "ironstomach",
+        "bloodlust"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "desensitized",
+          "ironstomach",
+          "bloodlust"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Squeamish",
+      "name": "squeamish"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is naturally anxious, especially in social situations. he avoids gatherings and sometimes retreats to his room to cope.",
+      "stats": [
+        "Only mental break \"VTE_PanicFreezing\" allowed.",
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [
+        "fun-loving"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "fun-loving"
+        ],
+        "stats": [
+          "Only mental break \"VTE_PanicFreezing\" allowed.",
+          "x200% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Anxious",
+      "name": "anxious"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "No amount of lovin’ is ever enough for Timmy. he tends to move between partners and seeks intimacy often.",
+      "stats": [
+        "x200% global certainty loss factor"
+      ],
+      "conflicts": [
+        "prude",
+        "asexual(aro)"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "prude",
+          "asexual(aro)"
+        ],
+        "stats": [
+          "x200% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Insatiable",
+      "name": "insatiable"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy gives his body only to a spouse and would never initiate divorce. he also dislikes nudity more than most.",
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "insatiable",
+        "nudist"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "insatiable",
+          "nudist"
+        ],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Prude",
+      "name": "prude"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "An armchair and a screen are all Timmy needs to be happy. he never tires of watching television, and always feels good after.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_CouchPotato",
+      "name": "couchpotato"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the company of cats and gravitates toward bonding with them, but dislikes dogs.",
+      "stats": [],
+      "conflicts": [
+        "dogperson"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "dogperson"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_CatPerson",
+      "name": "catperson"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy enjoys the company of dogs and gravitates toward bonding with them, but dislikes cats.",
+      "stats": [],
+      "conflicts": [
+        "catperson"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "catperson"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_DogPerson",
+      "name": "dogperson"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has a sharp, logical mind. he researches faster than most, and his rational outlook makes him less prone to mental breaks.",
+      "stats": [
+        "+20% mental break threshold",
+        "x130% research speed"
+      ],
+      "conflicts": [
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner"
+        ],
+        "stats": [
+          "+20% mental break threshold",
+          "x130% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Prodigy",
+      "name": "prodigy"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes animals are essential to life and society. he feels happier with more of them around, and is especially skilled at taming and training.",
+      "stats": [
+        "x120% tame animal chance",
+        "x120% train animal chance"
+      ],
+      "conflicts": [
+        "animalhater"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "animalhater"
+        ],
+        "stats": [
+          "x120% tame animal chance",
+          "x120% train animal chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Menagerist",
+      "name": "menagerist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The sea calls to Timmy. he feels happier when near the ocean or a deep river.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ChildOfSea",
+      "name": "oceanlover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "The mountains call to Timmy. he feels happier when near a large mountain.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ChildOfMountain",
+      "name": "mountainlover"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy hides a twisted obsession. he treats organ harvesting as a dark experiment and takes pleasure in it. Harvesting makes him happy, but going too long without fuels growing unrest.",
+      "stats": [
+        "+20% surgery success chance factor"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+20% surgery success chance factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_MadSurgeon",
+      "name": "madsurgeon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy fights best when drunk. he grows more dangerous in melee the more intoxicated he becomes.",
+      "stats": [
+        "+4 melee"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 melee"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_DrunkenMaster",
+      "name": "drunkenmaster"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is compelled to steal, even from guests and allies, risking angering others.",
+      "stats": [
+        "Only mental break \"VTE_Kleptomaniac\" allowed."
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "Only mental break \"VTE_Kleptomaniac\" allowed."
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Kleptomaniac",
+      "name": "kleptomaniac"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Smokeleaf is a way of life for Timmy. he adores it and would rather die than give it up.",
+      "stats": [],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Stoner",
+      "name": "stoner"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Alcohol is a way of life for Timmy. he adores drinking and would rather die than give it up.",
+      "stats": [],
+      "conflicts": [
+        "chemicalfascination",
+        "chemicalinterest",
+        "teetotaler"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "chemicalfascination",
+          "chemicalinterest",
+          "teetotaler"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Lush",
+      "name": "lush"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy loves to travel and feels happiest on the move. he grows restless when staying too long in one place, but moves quickly and forages well while caravanning.",
+      "stats": [
+        "+0.2 foraged food amount"
+      ],
+      "conflicts": [
+        "undergrounder"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "undergrounder"
+        ],
+        "stats": [
+          "+0.2 foraged food amount"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Wanderlust",
+      "name": "wanderlust"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is never fully asleep or awake. he lurches along in a slow, shambler-like state, and only sleeps once every few days.",
+      "stats": [
+        "x50% global work speed",
+        "x70% move speed",
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "heavysleeper"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "heavysleeper"
+        ],
+        "stats": [
+          "x50% global work speed",
+          "x70% move speed",
+          "x50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Insomniac",
+      "name": "insomniac"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has grown tired of the world. he struggles with bleak thoughts, making his personality difficult to befriend.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_WorldWeary",
+      "name": "worldweary"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is hardened by old emotional trauma. he feels nothing from death or loss, whether animal, colonist, family, or prisoner.",
+      "stats": [
+        "x50% global certainty loss factor"
+      ],
+      "conflicts": [
+        "squeamish"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "squeamish"
+        ],
+        "stats": [
+          "x50% global certainty loss factor"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Desensitized",
+      "name": "desensitized"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Only the finest meals satisfy Timmy. he feels indifferent toward ordinary food, but savors lavish meals and gains greater joy from them.",
+      "stats": [
+        "x70% eating speed"
+      ],
+      "conflicts": [
+        "ascetic"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "ascetic"
+        ],
+        "stats": [
+          "x70% eating speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_RefinedPalate",
+      "name": "refinedpalate"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Through scholastic pursuit, Timmy has become well-read. he excels in science and medicine, and tends patients with greater skill.",
+      "stats": [
+        "+4 intellectual",
+        "+4 medical",
+        "+20% medical tend quality"
+      ],
+      "conflicts": [
+        "slowlearner"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "slowlearner"
+        ],
+        "stats": [
+          "+4 intellectual",
+          "+4 medical",
+          "+20% medical tend quality"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Academian",
+      "name": "academian"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy believes infrastructure is everything. he is a natural builder and stoneworker, constructing and mining with greater speed and efficiency.",
+      "stats": [
+        "+4 mining",
+        "+4 construction",
+        "+20% mining yield",
+        "+20% construction speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 mining",
+          "+4 construction",
+          "+20% mining yield",
+          "+20% construction speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Groundbreaker",
+      "name": "groundbreaker"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "To Timmy, food is art. he creates beautiful, delicious meals that are almost always safe to eat.",
+      "stats": [
+        "+4 cooking",
+        "+4 artistic",
+        "-25.00% food poison chance"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 cooking",
+          "+4 artistic",
+          "-25.00% food poison chance"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Gastronomist",
+      "name": "gastronomist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Flora and fauna are vital to Timmy. he uses every part of plants and animals, and appreciates nature’s gifts.",
+      "stats": [
+        "+4 animals",
+        "+4 plants",
+        "+20% plant harvest yield",
+        "+20% butchery efficiency"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 animals",
+          "+4 plants",
+          "+20% plant harvest yield",
+          "+20% butchery efficiency"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Ecologist",
+      "name": "ecologist"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy has an eye for silver and a silver tongue to match. he values his own goods highly, and convinces others to do the same.",
+      "stats": [
+        "+4 social",
+        "+4 crafting",
+        "+25.00% trade price improvement"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+4 social",
+          "+4 crafting",
+          "+25.00% trade price improvement"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Tycoon",
+      "name": "tycoon"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
+      "stats": [],
+      "conflicts": [
+        "thinskinned"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "thinskinned"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ThickSkinned",
+      "name": "thickskinned"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
+      "stats": [],
+      "conflicts": [
+        "thickskinned"
+      ],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [
+          "thickskinned"
+        ],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_ThinSkinned",
+      "name": "thinskinned"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy bottles up his feelings for long stretches of time. When the pressure grows too great, he may suddenly break down.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Traits Expanded",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VTE_Schizoid",
+      "name": "schizoid"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
+      "stats": [],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Vanilla Ideology Expanded - Memes and Structures",
+        "karmaTypeForAdding": null
+      },
+      "defName": "VME_Elder",
+      "name": "elder"
     }
   ],
   "races": [
