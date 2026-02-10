@@ -121,6 +121,12 @@
   },
   {
     "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Cooking Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
     "name": "Vanilla Ideology Expanded - Memes and Structures",
     "steamId": "2636329500",
     "version": "1.0.0.0"
@@ -132,7 +138,7 @@
     "version": null
   },
   {
-    "author": "Oskar Potocki, Trunken and XeoNovaDan",
+    "author": "Oskar Potocki, Sokyran and Taranchuk",
     "name": "Vanilla Furniture Expanded - Security",
     "steamId": "1845154007",
     "version": "1.1.1.0"
@@ -519,7 +525,7 @@
     "author": "Mlie",
     "name": "No Version Warning",
     "steamId": "2599504692",
-    "version": "1.6.86"
+    "version": "1.6.90"
   },
   {
     "author": "Windows XP",
@@ -579,7 +585,7 @@
     "author": "m00nl1ght",
     "name": "Map Preview",
     "steamId": "2800857642",
-    "version": "1.12.22+4336584678fcfe9f7f1985e828d72bfe11813566"
+    "version": "1.12.23+8829db0b2029935b0c95dd7b2eb8bd619a093f34"
   },
   {
     "author": "Avius and Hazzer",
@@ -828,9 +834,81 @@
     "version": "1.0.0+a3d225b7a5f79e04ae28407275470deca71d2179"
   },
   {
-    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
-    "name": "Vanilla Cooking Expanded",
+    "author": "Pisiunas",
+    "name": "Item Stats Tooltip",
+    "steamId": "3230465110",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "Olli",
+    "name": "Butter++",
+    "steamId": "3643170015",
+    "version": "0.0.0.0"
+  },
+  {
+    "author": "Falconne",
+    "name": "Labels on Floor (continued)",
+    "steamId": "3546003256",
+    "version": "1.6.3.2"
+  },
+  {
+    "author": "Jelly",
+    "name": "Propaganda TV (Continued)",
     "steamId": null,
     "version": null
+  },
+  {
+    "author": "Feivian",
+    "name": "Dubs Bad Hygiene - Stop pathing through pools",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma OttersHoldHands iforgotmysocks",
+    "name": "Camping Tent",
+    "steamId": "2407128339",
+    "version": "2.2.0.0"
+  },
+  {
+    "author": "VitaKaninen",
+    "name": "Camping Tent - Remove Tech Restriction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Programmer-Lily",
+    "name": "Build From Storage",
+    "steamId": "3523011187",
+    "version": "1.0.0.0"
+  },
+  {
+    "author": "lagking, Meltup and Sicarious",
+    "name": "Polyamory Beds (Vanilla Edition)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "mr_chimick",
+    "name": "Block Unwanted Minutiae (Continued)",
+    "steamId": "3278213153",
+    "version": "1.6.0"
+  },
+  {
+    "author": "Bodil Stokke",
+    "name": "Animal Biosculpter",
+    "steamId": "2883571601",
+    "version": "1.0.1+1c69e85d7d0c0de3dd3688a7ed2be6c33e51753d"
+  },
+  {
+    "author": "Loconeko",
+    "name": "Roads of the Rim (Continued)",
+    "steamId": "2280318231",
+    "version": "1.6.1"
+  },
+  {
+    "author": "alite",
+    "name": "'Til Death Do Them Apart",
+    "steamId": "2975068661",
+    "version": "1.0.0.0"
   }
 ]

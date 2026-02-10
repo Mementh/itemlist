@@ -11335,12 +11335,6 @@
 		"defname": "VCEF_Arapaima"
 	},
 	{
-		"abr": "archotechshieldgenerator",
-		"price": 4667,
-		"category": "Special",
-		"defname": "VFES_ShieldGenerator_Archotech"
-	},
-	{
 		"abr": "armoreddoor",
 		"price": 177,
 		"category": "Misc",
@@ -11749,18 +11743,6 @@
 		"defname": "VAE_Apparel_Chainmail"
 	},
 	{
-		"abr": "chargecomplex",
-		"price": 1692,
-		"category": "Security",
-		"defname": "VFES_Turret_ChargeComplex"
-	},
-	{
-		"abr": "chargerailgun",
-		"price": 4658,
-		"category": "Security",
-		"defname": "VFES_Turret_ChargeRailgunTurret"
-	},
-	{
 		"abr": "chargeturret",
 		"price": 1358,
 		"category": "Security",
@@ -11881,12 +11863,6 @@
 		"defname": "VCEF_Crayfish"
 	},
 	{
-		"abr": "decoy",
-		"price": 140,
-		"category": "Security",
-		"defname": "VFES_Turret_Decoy"
-	},
-	{
 		"abr": "deepchem",
 		"price": 7,
 		"category": "Manufactured",
@@ -11933,18 +11909,6 @@
 		"price": 102,
 		"category": "Misc",
 		"defname": "VCHE_DeepchemValve"
-	},
-	{
-		"abr": "deployablebarrier",
-		"price": 96,
-		"category": "Security",
-		"defname": "VFES_DeployableBarrier"
-	},
-	{
-		"abr": "deployableturret",
-		"price": 983,
-		"category": "Security",
-		"defname": "VFES_Turret_FloorTurret"
 	},
 	{
 		"abr": "dinghy",
@@ -12011,12 +11975,6 @@
 		"price": 608,
 		"category": "Production",
 		"defname": "VRecyclingE_ElectricRecyclingWorkbench"
-	},
-	{
-		"abr": "empcannon",
-		"price": 4225,
-		"category": "Security",
-		"defname": "VFES_Turret_EMPTurret"
 	},
 	{
 		"abr": "energydrink",
@@ -12409,12 +12367,6 @@
 		"defname": "VVE_Highwayman"
 	},
 	{
-		"abr": "hmgcomplex",
-		"price": 750,
-		"category": "Security",
-		"defname": "VFES_Turret_HMGComplex"
-	},
-	{
 		"abr": "hoodie",
 		"price": 259,
 		"category": "Apparel",
@@ -12539,12 +12491,6 @@
 		"price": 833,
 		"category": "Misc",
 		"defname": "VRecyclingE_LargePollutionPump"
-	},
-	{
-		"abr": "largeshieldgenerator",
-		"price": 7458,
-		"category": "Security",
-		"defname": "VFES_ShieldGenerator_Large"
 	},
 	{
 		"abr": "lattecoffee",
@@ -13369,12 +13315,6 @@
 		"defname": "VFES_Turret_Searchlight"
 	},
 	{
-		"abr": "sentrygun",
-		"price": 1058,
-		"category": "Security",
-		"defname": "VFES_Turret_SentryGun"
-	},
-	{
 		"abr": "serketistslab(broad)",
 		"price": 508,
 		"category": "Furniture",
@@ -13487,12 +13427,6 @@
 		"price": 833,
 		"category": "Inert relics",
 		"defname": "VIE_RelicInertPlate"
-	},
-	{
-		"abr": "smallshieldgenerator",
-		"price": 3983,
-		"category": "Security",
-		"defname": "VFES_ShieldGenerator_Small"
 	},
 	{
 		"abr": "smuggler",
@@ -14118,6 +14052,642 @@
 		"category": "Android body parts",
 		"defname": "VREA_Shoulder"
 	},
+	{
+		"abr": "artificialspine",
+		"price": 323,
+		"category": "Android body parts",
+		"defname": "VREA_ArtificialSpine"
+	},
+	{
+		"abr": "artificialsternum",
+		"price": 231,
+		"category": "Android body parts",
+		"defname": "VREA_Sternum"
+	},
+	{
+		"abr": "artificialtibia",
+		"price": 246,
+		"category": "Android body parts",
+		"defname": "VREA_Tibia"
+	},
+	{
+		"abr": "artificialtoe",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Toe"
+	},
+	{
+		"abr": "artificialtongue",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Tongue"
+	},
+	{
+		"abr": "artificialutilityslot",
+		"price": 186,
+		"category": "Android body parts",
+		"defname": "VREA_Waist"
+	},
+	{
+		"abr": "audioprocessor",
+		"price": 492,
+		"category": "Android body parts",
+		"defname": "VREA_AudioProcessor"
+	},
+	{
+		"abr": "hiddenneutropipe",
+		"price": 15,
+		"category": "Misc",
+		"defname": "VREA_SubterraneanNeutroPipe"
+	},
+	{
+		"abr": "metabolismregulator",
+		"price": 542,
+		"category": "Android body parts",
+		"defname": "VREA_MetabolismRegulator"
+	},
+	{
+		"abr": "neuropump",
+		"price": 642,
+		"category": "Android body parts",
+		"defname": "VREA_NeuroPump"
+	},
+	{
+		"abr": "neutrocasket",
+		"price": 750,
+		"category": "Furniture",
+		"defname": "VREA_NeutroCasket"
+	},
+	{
+		"abr": "neutrodrain",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroDrain"
+	},
+	{
+		"abr": "neutropipe",
+		"price": 7,
+		"category": "Misc",
+		"defname": "VREA_NeutroPipe"
+	},
+	{
+		"abr": "neutrotank",
+		"price": 675,
+		"category": "Misc",
+		"defname": "VREA_NeutroTank"
+	},
+	{
+		"abr": "neutrotap",
+		"price": 194,
+		"category": "Furniture",
+		"defname": "VREA_NeutroTap"
+	},
+	{
+		"abr": "neutrofilter",
+		"price": 525,
+		"category": "Android body parts",
+		"defname": "VREA_Neutrofilter"
+	},
+	{
+		"abr": "opticalunit",
+		"price": 567,
+		"category": "Android body parts",
+		"defname": "VREA_OpticalUnit"
+	},
+	{
+		"abr": "personasubcore",
+		"price": 3333,
+		"category": "Manufactured",
+		"defname": "VREA_PersonaSubcore"
+	},
+	{
+		"abr": "reactor",
+		"price": 950,
+		"category": "Android body parts",
+		"defname": "VREA_Reactor"
+	},
+	{
+		"abr": "subcorepolyanalyzer",
+		"price": 3933,
+		"category": "Misc",
+		"defname": "VREA_SubcorePolyanalyzer"
+	},
+	{
+		"abr": "televisionspeaker",
+		"price": 892,
+		"category": "Furniture",
+		"defname": "VFES_TelevisionSpeaker"
+	},
+	{
+		"abr": "tequila",
+		"price": 25,
+		"category": "Drugs",
+		"defname": "VBE_Tequila"
+	},
+	{
+		"abr": "tequilabarrel",
+		"price": 95,
+		"category": "Production",
+		"defname": "VBE_TequilaBarrel"
+	},
+	{
+		"abr": "tequilamust",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_TequilaMust"
+	},
+	{
+		"abr": "tilableartificialecosystem",
+		"price": 492,
+		"category": "Production",
+		"defname": "VFE_Ecosystem_Tilable"
+	},
+	{
+		"abr": "tilablehydroponicsbasin",
+		"price": 137,
+		"category": "Production",
+		"defname": "VFE_Hydroponics_Tilable"
+	},
+	{
+		"abr": "tilableplanterbox",
+		"price": 15,
+		"category": "Production",
+		"defname": "VFE_PlanterBox_Tilable"
+	},
+	{
+		"abr": "toad",
+		"price": 3958,
+		"category": "Misc",
+		"defname": "VVE_Toad_Blueprint"
+	},
+	{
+		"abr": "toad",
+		"price": 4000,
+		"category": "Animal",
+		"defname": "VVE_Toad"
+	},
+	{
+		"abr": "tobaccoleaves",
+		"price": 2,
+		"category": "Plant matter",
+		"defname": "VBE_RawTobacco"
+	},
+	{
+		"abr": "toolbelt",
+		"price": 166,
+		"category": "Utility",
+		"defname": "VAEA_Apparel_ToolBelt"
+	},
+	{
+		"abr": "tools",
+		"price": 833,
+		"category": "Inert relics",
+		"defname": "VIE_RelicInertTools"
+	},
+	{
+		"abr": "trash",
+		"price": 5,
+		"category": "Recycling packs",
+		"defname": "VRecyclingE_Trash"
+	},
+	{
+		"abr": "trashbrick",
+		"price": 0,
+		"category": "Stone blocks",
+		"defname": "VRecyclingE_TrashBrick"
+	},
+	{
+		"abr": "traveller",
+		"price": 3033,
+		"category": "Misc",
+		"defname": "VVE_Traveller_Blueprint"
+	},
+	{
+		"abr": "traveller",
+		"price": 2750,
+		"category": "Animal",
+		"defname": "VVE_Traveller"
+	},
+	{
+		"abr": "trawler",
+		"price": 3167,
+		"category": "Misc",
+		"defname": "VVE_Trawler_Blueprint"
+	},
+	{
+		"abr": "trawler",
+		"price": 3167,
+		"category": "Animal",
+		"defname": "VVE_Trawler"
+	},
+	{
+		"abr": "trench",
+		"price": 40,
+		"category": "Security",
+		"defname": "VFES_Trench"
+	},
+	{
+		"abr": "tribalkilt",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalKilt"
+	},
+	{
+		"abr": "tribalponcho",
+		"price": 144,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_TribalPoncho"
+	},
+	{
+		"abr": "trooperarmor",
+		"price": 1917,
+		"category": "Armor",
+		"defname": "VAE_Apparel_TrooperArmor"
+	},
+	{
+		"abr": "trooperhelmet",
+		"price": 792,
+		"category": "Headgear",
+		"defname": "VAE_Headgear_TrooperHelmet"
+	},
+	{
+		"abr": "trousers",
+		"price": 164,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Trousers"
+	},
+	{
+		"abr": "truckwreck",
+		"price": 18,
+		"category": "Misc",
+		"defname": "VVE_TruckWreck"
+	},
+	{
+		"abr": "tunic",
+		"price": 143,
+		"category": "Apparel",
+		"defname": "VAE_Apparel_Tunic"
+	},
+	{
+		"abr": "udar",
+		"price": 9875,
+		"category": "Misc",
+		"defname": "VVE_Udar_Blueprint"
+	},
+	{
+		"abr": "udar",
+		"price": 10450,
+		"category": "Animal",
+		"defname": "VVE_Udar"
+	},
+	{
+		"abr": "uncookedfinesoup",
+		"price": 227,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupFine"
+	},
+	{
+		"abr": "uncookedgourmetsoup",
+		"price": 742,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupGourmet"
+	},
+	{
+		"abr": "uncookedlavishsoup",
+		"price": 458,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupLavish"
+	},
+	{
+		"abr": "uncookedsimplesoup",
+		"price": 161,
+		"category": "Uncooked soups",
+		"defname": "VCE_UncookedSoupSimple"
+	},
+	{
+		"abr": "unfermentedcider",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_UnfermentedCider"
+	},
+	{
+		"abr": "vegetablemilkextractor",
+		"price": 296,
+		"category": "Production",
+		"defname": "VCE_VegMilkExtractor"
+	},
+	{
+		"abr": "vodka",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Vodka"
+	},
+	{
+		"abr": "vodkadrum",
+		"price": 82,
+		"category": "Production",
+		"defname": "VBE_VodkaDrum"
+	},
+	{
+		"abr": "vodkamash",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_VodkaMash"
+	},
+	{
+		"abr": "wagon",
+		"price": 3958,
+		"category": "Misc",
+		"defname": "VVE_Wagon_Blueprint"
+	},
+	{
+		"abr": "wagon",
+		"price": 4000,
+		"category": "Animal",
+		"defname": "VVE_Wagon"
+	},
+	{
+		"abr": "wake-uppowder",
+		"price": 100,
+		"category": "Condiments",
+		"defname": "VBE_WakeUpPowder"
+	},
+	{
+		"abr": "wall-mountedtelevision",
+		"price": 1867,
+		"category": "Recreation",
+		"defname": "VFES_WallMountedTelevision"
+	},
+	{
+		"abr": "warbird",
+		"price": 4825,
+		"category": "Misc",
+		"defname": "VVE_Warbird_Blueprint"
+	},
+	{
+		"abr": "warbird",
+		"price": 4917,
+		"category": "Animal",
+		"defname": "VVE_Warbird"
+	},
+	{
+		"abr": "wastecrate",
+		"price": 100,
+		"category": "Furniture",
+		"defname": "VRecyclingE_WasteCrate"
+	},
+	{
+		"abr": "waterbowl",
+		"price": 51,
+		"category": "Hygiene",
+		"defname": "PetWaterBowl"
+	},
+	{
+		"abr": "watertrough",
+		"price": 249,
+		"category": "Hygiene",
+		"defname": "WaterTrough"
+	},
+	{
+		"abr": "whiskey",
+		"price": 50,
+		"category": "Drugs",
+		"defname": "VBE_Whiskey"
+	},
+	{
+		"abr": "whiskeycask",
+		"price": 725,
+		"category": "Production",
+		"defname": "VBE_WhiskeyCask"
+	},
+	{
+		"abr": "whiskeymash",
+		"price": 4,
+		"category": "Musts and syrups",
+		"defname": "VBE_WhiskeyMash"
+	},
+	{
+		"abr": "wickerman",
+		"price": 178,
+		"category": "Misc",
+		"defname": "VME_WickerMan"
+	},
+	{
+		"abr": "wisent",
+		"price": 7000,
+		"category": "Misc",
+		"defname": "VVE_Wisent_Blueprint"
+	},
+	{
+		"abr": "wisent",
+		"price": 7100,
+		"category": "Animal",
+		"defname": "VVE_Wisent"
+	},
+	{
+		"abr": "woodenarmor",
+		"price": 286,
+		"category": "Armor",
+		"defname": "VAE_Apparel_WoodenArmor"
+	},
+	{
+		"abr": "yuenyeung",
+		"price": 13,
+		"category": "Drugs",
+		"defname": "VBE_Yuenyeung"
+	},
+	{
+		"abr": "anti-airturret",
+		"price": 1867,
+		"category": "Security",
+		"defname": "VFES_Turret_AntiAir"
+	},
+	{
+		"abr": "armoredturret",
+		"price": 650,
+		"category": "Security",
+		"defname": "VFES_Turret_ArmoredTurret"
+	},
+	{
+		"abr": "automatedmortar",
+		"price": 1417,
+		"category": "Security",
+		"defname": "VFES_Turret_AutomatedMortar"
+	},
+	{
+		"abr": "chargecomplex",
+		"price": 2283,
+		"category": "Security",
+		"defname": "VFES_Complex_Charge"
+	},
+	{
+		"abr": "chargerailgun",
+		"price": 5158,
+		"category": "Security",
+		"defname": "VFES_Turret_ChargeRailgun"
+	},
+	{
+		"abr": "concealedbarrier",
+		"price": 67,
+		"category": "Security",
+		"defname": "VFES_ConcealedBarrier"
+	},
+	{
+		"abr": "concealedturret",
+		"price": 608,
+		"category": "Security",
+		"defname": "VFES_Turret_Concealed"
+	},
+	{
+		"abr": "dugout",
+		"price": 12,
+		"category": "Security",
+		"defname": "VFES_Dugout"
+	},
+	{
+		"abr": "campingluggage",
+		"price": 81,
+		"category": "Furniture",
+		"defname": "CampingLuggages"
+	},
+	{
+		"abr": "canopy",
+		"price": 306,
+		"category": "Furniture",
+		"defname": "Canopy"
+	},
+	{
+		"abr": "foldingtent",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "FoldingTent"
+	},
+	{
+		"abr": "grasercannoncomplex",
+		"price": 3425,
+		"category": "Security",
+		"defname": "VFES_Complex_GraserCannon"
+	},
+	{
+		"abr": "hmgcomplex",
+		"price": 667,
+		"category": "Security",
+		"defname": "VFES_Complex_Hmg"
+	},
+	{
+		"abr": "industrialtent",
+		"price": 392,
+		"category": "Furniture",
+		"defname": "ModernTent"
+	},
+	{
+		"abr": "landmine",
+		"price": 249,
+		"category": "Security",
+		"defname": "VEFS_TrapLandmine"
+	},
+	{
+		"abr": "largerepulsor",
+		"price": 3708,
+		"category": "Security",
+		"defname": "VFES_LargeRepulsor"
+	},
+	{
+		"abr": "miniguncomplex",
+		"price": 1417,
+		"category": "Security",
+		"defname": "VFES_Complex_Minigun"
+	},
+	{
+		"abr": "minigunturret",
+		"price": 1967,
+		"category": "Security",
+		"defname": "VFES_Turret_Minigun"
+	},
+	{
+		"abr": "non-lethalturret",
+		"price": 500,
+		"category": "Security",
+		"defname": "VFES_Turret_NonLethalTurret"
+	},
+	{
+		"abr": "pentaroyalbed",
+		"price": 3617,
+		"category": "Furniture",
+		"defname": "PentaRoyalBed"
+	},
+	{
+		"abr": "quadrabed",
+		"price": 567,
+		"category": "Furniture",
+		"defname": "QuadBed"
+	},
+	{
+		"abr": "quadrabedroll",
+		"price": 600,
+		"category": "Furniture",
+		"defname": "BedrollQuad"
+	},
+	{
+		"abr": "quadraergonomicbed",
+		"price": 1700,
+		"category": "Furniture",
+		"defname": "Quadra_Ergonomic"
+	},
+	{
+		"abr": "quadraroyalbed",
+		"price": 2900,
+		"category": "Furniture",
+		"defname": "QuadRoyalBed"
+	},
+	{
+		"abr": "shockmine",
+		"price": 400,
+		"category": "Security",
+		"defname": "VEFS_TrapShockmine"
+	},
+	{
+		"abr": "shotgunturret",
+		"price": 617,
+		"category": "Security",
+		"defname": "VFES_Turret_ShotgunTurret"
+	},
+	{
+		"abr": "slabquadbed",
+		"price": 658,
+		"category": "Furniture",
+		"defname": "SlabQuadBed"
+	},
+	{
+		"abr": "slabtriplebed",
+		"price": 475,
+		"category": "Furniture",
+		"defname": "SlabTripleBed"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 3617,
+		"category": "Road equipment",
+		"defname": "RotR_AISR2GNew"
+	},
+	{
+		"abr": "aisr2g",
+		"price": 8967,
+		"category": "Power",
+		"defname": "RotR_AISR2G"
+	},
+	{
+		"abr": "isr2g",
+		"price": 958,
+		"category": "Road equipment",
+		"defname": "RotR_ISR2GNew"
+	},
+	{
+		"abr": "isr2g",
+		"price": 48,
+		"category": "Power",
+		"defname": "RotR_ISR2G"
+	},
 	],
-	"total": 2427
+	"total": 2459
 }
